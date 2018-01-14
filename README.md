@@ -1,15 +1,15 @@
-Dash Core staging tree 0.12.2
+Osme Core staging tree 0.12.2
 ===============================
 
 `master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) `develop:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=develop)](https://travis-ci.org/dashpay/dash/branches)
 
-https://www.dash.org
+https://osme.network
 
 
-What is Dash?
+What is Osme?
 ----------------
 
-Dash is an experimental new digital currency that enables anonymous, instant
+Osme is an experimental new digital currency that enables anonymous, instant
 payments to anyone, anywhere in the world. Dash uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
 are carried out collectively by the network. Dash Core is the name of the open
